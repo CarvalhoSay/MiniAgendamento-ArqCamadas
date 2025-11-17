@@ -47,10 +47,4 @@ public class Agendamento {
     private LocalDateTime atualizadoEm;
 
 
-
-
-
-
-
-
 }
